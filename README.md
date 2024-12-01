@@ -25,4 +25,6 @@ Hệ thống định dạng vật thể thông qua video streaming
 |    |   └── main.c                 File main
 └── README.md                  This is the file you are currently reading
 ```
-
+## Bất cập
+File recycle_classifier_vgg16.h5 lớn hơn 100mb không push được nên đường dẫn đến file chuyển sang drive như sau:
+https://drive.google.com/file/d/1bIR4b3QfYI4sF9t7xpn4_YMDLQ_oPuOP/view?usp=sharing
